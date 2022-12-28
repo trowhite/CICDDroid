@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         val binding: ActivityMainBinding = DataBindingUtil.setContentView(this, R.layout.activity_main)
 
         AppCenter.start(
-            application, "fc4d1ff9-8882-4493-aa53-604527aaee14",
+            application, "5236b654-839c-4946-a4f0-5c0a2c8c291c",
             Analytics::class.java, Crashes::class.java
         )
 
