@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">RetirementCalculator</string>
+    <string name="interest_rate">Interest rate</string>
+    <string name="monthly_savings">Monthly savings</string>
+    <string name="your_current_age">Your current age</string>
+    <string name="planned_retirement_age">Planned retirement age</string>
+    <string name="current_savings">Current savings</string>
+    <string name="calculate">Calculate</string>
+    <string name="at_this_rate_with_your_current_monthly_savings_you_will_have_1_000_000_by_65">At this rate, with your current monthly savings you will have $1,000,000 by 65.</string>
+    <string name="monthly_savings_rate">monthly savings rate</string>
+    <string name="expected_interest_rate">expected interest rate</string>
+    <string name="current_age">your current age</string>
+    <string name="your_planned_retirement_age">planned retirement age</string>
+    <string name="current_savings_amount">current savings amount</string>
 </resources>
